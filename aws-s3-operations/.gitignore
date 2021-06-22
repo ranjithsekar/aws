@@ -1,0 +1,11 @@
+### Folders
+.gradle/
+.settings/
+bin/
+build/
+logs/
+
+### Files
+.project
+.classpath
+HELP.md
